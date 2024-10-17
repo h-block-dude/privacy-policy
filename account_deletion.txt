@@ -1,0 +1,36 @@
+# Account Deletion Instructions
+
+If you wish to delete your account with **[Your App Name]**, developed by **[Your Developer Name]** (as shown on our store listing), please follow the steps below.
+
+## Steps to Request Account Deletion
+
+1. **Contact Us via Email**
+   - Send an email to **noqarabic@gmail.com** from the email address associated with your account.
+   - Use the subject line: **"Account Deletion Request"**.
+
+2. **Provide Necessary Information**
+   - In your email, please include:
+     - **Your Full Name**
+     - **Your Registered Email Address**
+     - Any additional information that may help us verify your identity.
+
+3. **Await Confirmation**
+   - We will process your request and send a confirmation email once your account has been deleted.
+
+## Data Deletion Details
+
+- **Data That Will Be Deleted:**
+  - **Email Address:** Your email used for account creation will be permanently removed from our systems.
+  - **Uploaded Images:** All images you have uploaded to our servers will be deleted.
+
+- **Data That May Be Retained:**
+  - **Anonymized Data:** We may retain non-personally identifiable information for analytical purposes, which cannot be linked back to you.
+
+## Additional Retention Period
+
+- **Processing Time:** Account deletion requests will be processed within **30 days** of receipt.
+- **Backup Retention:** Data may remain in our encrypted backups for up to **90 days** but will not be used for any purpose.
+
+---
+
+If you have any questions or need further assistance, please contact us at **noqarabic@gmail.com**.
