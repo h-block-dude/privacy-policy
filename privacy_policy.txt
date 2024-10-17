@@ -1,0 +1,71 @@
+Privacy Policy
+
+Last updated: October 17, 2024
+
+1. Introduction
+
+We are committed to protecting your personal information and your right to privacy. This Privacy Policy describes how we collect, use, store, and protect your information when you use our mobile application (the "App").
+
+2. Information We Collect
+
+We collect the following information to provide and improve our services:
+
+a. Personal Information
+
+Email Address: Collected during account creation. This is considered personally identifiable information (PII) as it can be used to identify you.
+
+b. Images
+
+User-Uploaded Images: You may take photos using your device's camera or upload images from your gallery. These images are stored on our servers for processing and analysis.
+
+3. How We Use Your Information
+
+We use the collected information for the following purposes:
+
+Account Creation and Management: Your email address is used to create and manage your account.
+Image Analysis: Uploaded images are processed to provide the core functionality of the App.
+Service Improvement: We may use aggregated data to enhance our services.
+
+4. Data Transmission
+
+The App transmits the following data to our servers:
+
+Email Address: Sent during account creation and authentication.
+Images: Uploaded images are transmitted for processing and analysis.
+
+5. Data Storage and Security
+
+We store your data securely and implement appropriate measures to protect it against unauthorized access, alteration, disclosure, or destruction.
+
+6. Data Deletion Requests
+
+You have the right to request the deletion of your personal data. To do so, please contact us at:
+
+Email: noqarabic@gmail.com
+
+Upon verification of your identity, we will delete your data from our servers within a reasonable timeframe.
+
+7. Permissions Used
+
+The App requires the following permissions:
+
+Camera Access: Allows you to take photos within the App.
+Read External Storage (READ_EXTERNAL_STORAGE): Enables you to upload images from your device's gallery.
+
+8. Why We Require These Permissions
+
+Camera Access: Needed to capture images directly through the App.
+Read External Storage: Required to access and upload images stored on your device.
+We use these permissions solely for the purposes stated and do not access your camera or storage without your explicit action.
+
+9. Contact Us
+
+If you have any questions, concerns, or requests regarding your data, please contact us at:
+
+Email: noqarabic@gmail.com
+
+10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted within the App, and the "Last updated" date will be revised accordingly.
+
+By using the App, you acknowledge that you have read and understood this Privacy Policy.
